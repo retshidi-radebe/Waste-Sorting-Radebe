@@ -1,4 +1,4 @@
-# Project Title
+# Waste Sorting
 
 This project is a Spring Boot application that manages waste items. It uses H2 as an in-memory database and Swagger for API documentation.
 
